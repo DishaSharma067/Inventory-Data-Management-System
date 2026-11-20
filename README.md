@@ -40,7 +40,7 @@ inventory-data-management-system/
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/inventory-data-management-system.git
+git clone https://github.com/DishaSharma067/inventory-data-management-system.git
 cd inventory-data-management-system
 npm install
 cp .env.example .env        # Windows: copy .env.example .env
